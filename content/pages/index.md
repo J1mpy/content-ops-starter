@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Co mogę dla Ciebie zrobić?
+      text: Cześć! Jestem Paweł
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
