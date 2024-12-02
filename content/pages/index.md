@@ -7,7 +7,7 @@ sections:
       text: Cześć! Jestem Paweł
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Specjalizuję się w grafice komputerowej, fotografii i filmowaniu.'
     text: "Tworzę wizualne rozwiązania, które przyciągają uwagę i budują wizerunek Twojej marki. Niezależnie od tego, czy potrzebujesz grafik, zdjęć czy materiałów do druku, zadbam o to, żeby wszystko było dopracowane i spójne. Razem możemy stworzyć coś naprawdę wyjątkowego!\_\n"
     actions:
       - label: Get started
