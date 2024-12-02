@@ -43,7 +43,7 @@
             "label": "Kontakt",
             "url": "/",
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "primary",
             "type": "Button",
             "showIcon": true
