@@ -31,7 +31,7 @@ sections:
     media:
       url: /images/Untitled (1).png
       altText: Unblock your team boost your time to production preview
-      elementId: /images/apples.jpg?nf_resize=fit&w=300&h=400
+      elementId: /images/apples.jpg?nf_resize=fit&w=150&h=200
       type: ImageBlock
     badge:
       label: This is a badge
